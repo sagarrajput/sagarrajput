@@ -2,10 +2,6 @@
 
 I am a Quality Analyst and test automation Enthusiast.
 
-**GitHub Stats:**
-
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarrajput&show_icons=true)
-
 <!--
 **sagarrajput/sagarrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
