@@ -1,6 +1,6 @@
 ### Hi there I'm Sagar Rajput 👋
 
-I am a Quality Analyst and test automation Enthusiast.
+I am a Quality Analyst and Test Automation Engineer.
 
 <!--
 **sagarrajput/sagarrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
